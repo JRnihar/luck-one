@@ -1,0 +1,25 @@
+.question-1{
+    border: 1px solid #ffff;
+    width: 75%;
+    padding: 15px;
+    border-radius: 10px;
+    background: #e0e0e0;
+    box-shadow:  29px 29px 55px #a8a8a8,
+                -29px -29px 55px #ffffff;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.question-2{
+    border: 1px solid #ffff;
+    width: 75%;
+    padding: 15px;
+    border-radius: 10px;
+    background: #e0e0e0;
+    box-shadow:  29px 29px 55px #a8a8a8,
+                -29px -29px 55px #ffffff;
+    margin-bottom: 20px;
+    
+}
+.question-container{
+    margin-left: 39px;
+}
